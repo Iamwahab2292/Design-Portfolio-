@@ -1,2 +1,14 @@
-# Design-Portfolio-
-My internship graphic design for Alpha Network. Includes social media post designs.
+# My Graphic Design Portfolio - Internship Submission
+
+This is my design portfolio submitted for the Alpha Network Internship.
+
+## Tools Used:
+- Canva
+- Photoshop
+- Illustrator
+
+## Includes:
+- Social media posts
+- Cards designs
+- Posters / Banners
+  
